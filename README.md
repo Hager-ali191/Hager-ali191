@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hager Ali 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+ASU;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Generative+AI" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,12 +13,6 @@ I am a results-driven AI Engineer in the making, specializing in Machine Learnin
 > ⚡ Philosophy: *"Don't just train the model — understand it, deploy it, and make it matter."*
 
 My AI journey spans the full spectrum — from classical Machine Learning (supervised and unsupervised algorithms including SVM, XGBoost, Random Forest, and more) to Deep Learning with neural networks, and Computer Vision using CNNs, transfer learning, YOLO, and OpenCV. I have applied these skills across multiple hands-on projects including real-time image classification systems, object detection pipelines, and predictive analytics models.
-
-I have trained across multiple intensive programs including **UAI**, **NTI**, **GDG on Campus**, **CodeAlpha**, **Syntecxhub**, and **AI Pioneers** — building a wide and solid foundation across the full AI stack, from data preprocessing and model selection all the way to Transformers, Hugging Face LLMs, Stable Diffusion, and GANs.
-
-I currently serve as **AI Vice Head at RoboTech ASU**, supervising 25+ projects across ML, Computer Vision, and AI × IoT tracks, and mentoring peers through real project delivery cycles at one of ASU's largest tech communities.
-
-I am actively seeking opportunities to grow, collaborate, and contribute to impactful AI-driven projects — and always looking for the next challenge. 🚀
 
 ---
 
