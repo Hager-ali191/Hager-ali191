@@ -4,6 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Generative+AI" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <b>Building intelligent, data-driven systems with a strong focus on real-world model deployment and end-to-end AI pipelines.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Hager-ali191?label=Followers&style=for-the-badge&color=239120" />
+  <img src="https://img.shields.io/github/stars/Hager-ali191?label=Stars&style=for-the-badge&color=007ACC" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-purple?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -81,20 +91,15 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 
 | Project | Description & Key Features | Technical Highlights | Links |
 |---|---|---|---|
-| 🔵 **Akina-Draw** | Real-time hand-drawing classifier — predicts what you draw while the pen is still moving. Live confidence score updated per stroke. Interactive desktop UI with 89 curated classes, brush/eraser controls, undo, and class reference panel. **Showcased at RoboTech ASU Fair '26 & AZEX Competition (May 2026)** | Inception CNN, Google Quick Draw Dataset (89/300+ classes), OpenCV canvas preprocessing, Pygame UI | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Akina-Draw) |
-| 🟣 **SpectraSense** | Intelligent conveyor-belt sorting system classifying objects as metal or non-metal across 4 streams: Metal Electronics, Metal Accessories, Metal Tools, Non-Metal. Hardware-integrated with servo motors and sensors for automated physical sorting. **Showcased at RoboTech ASU Fair '26 & AZEX Competition (May 2026)** | YOLO, OpenCV, Roboflow dataset, ESP32-CAM + ESP32 + Arduino Uno, MG996R Servo Motors, Hall Effect Sensors | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/SpectraSense) |
-| 🟢 **Bank Churn Predictor** | End-to-end churn prediction pipeline on banking customer data. Identifies customers at risk of leaving using classical ML and Deep Learning. Full feature engineering, class imbalance handling, and comparative model evaluation with ROC-AUC reporting. | scikit-learn, Deep Learning, pandas, Feature Engineering, F1-Score & ROC-AUC Evaluation | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Bank-Customer-Churn-Project) |
-| 🟡 **Telco Churn Predictor** | Churn prediction system on telecom data. Deep EDA uncovering patterns across contract types, tenure, and service usage. Ensemble methods + neural network with hyperparameter tuning, cross-validation, and feature importance analysis. | scikit-learn, Deep Learning, EDA, Hyperparameter Tuning, Cross-Validation, pandas | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Telco-Customer-Churn-Project) |
-| 🔴 **Student Mental Health Predictor** | Classifies student mental health risk levels from academic and behavioral survey data. Includes a fully interactive web-based GUI built with NiceGUI for real-time end-user prediction without any code. **Showcased at RoboTech ASU Fair '26** | scikit-learn, NiceGUI, Classification, Feature Engineering, pandas | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Student-Mental-Health-Predictor-) |
+| 🔵 **Akina-Draw** | Real-time hand-drawing classifier — predicts what you draw while the pen is still moving. Live confidence score updated per stroke. Interactive desktop UI with 89 curated classes, brush/eraser controls, undo, and class reference panel. **Showcased at RoboTech ASU Fair '26 & AZEX Competition (May 2026)** | Inception CNN, Google Quick Draw Dataset (89/300+ classes), OpenCV canvas preprocessing, Pygame UI | [![📁](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Akina-Draw) |
+| 🟣 **SpectraSense** | Intelligent conveyor-belt sorting system classifying objects as metal or non-metal across 4 streams: Metal Electronics, Metal Accessories, Metal Tools, Non-Metal. Hardware-integrated with servo motors and sensors for automated physical sorting. **Showcased at RoboTech ASU Fair '26 & AZEX Competition (May 2026)** | YOLO, OpenCV, Roboflow dataset, ESP32-CAM + ESP32 + Arduino Uno, MG996R Servo Motors, Hall Effect Sensors | [![📁](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/SpectraSense) |
+| 🟢 **Bank Churn Predictor** | End-to-end churn prediction pipeline on banking customer data. Identifies customers at risk of leaving using classical ML and Deep Learning. Full feature engineering, class imbalance handling, and comparative model evaluation with ROC-AUC reporting. | scikit-learn, Deep Learning, pandas, Feature Engineering, F1-Score & ROC-AUC Evaluation | [![📁](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Bank-Customer-Churn-Project) |
+| 🟡 **Telco Churn Predictor** | Churn prediction system on telecom data. Deep EDA uncovering patterns across contract types, tenure, and service usage. Ensemble methods + neural network with hyperparameter tuning, cross-validation, and feature importance analysis. | scikit-learn, Deep Learning, EDA, Hyperparameter Tuning, Cross-Validation, pandas | [![📁](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Telco-Customer-Churn-Project) |
+| 🔴 **Student Mental Health Predictor** | Classifies student mental health risk levels from academic and behavioral survey data. Includes a fully interactive web-based GUI built with NiceGUI for real-time end-user prediction without any code. **Showcased at RoboTech ASU Fair '26** | scikit-learn, NiceGUI, Classification, Feature Engineering, pandas | [![📁](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Student-Mental-Health-Predictor-) |
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hager-ali191&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hager-ali191&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hager-ali191&theme=tokyonight&hide_border=true" width="60%" />
@@ -116,22 +121,15 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 
 ---
 
+
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hager-ali-460316365" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hager-ali191" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:alihager191@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:alihager191@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hager-ali-460316365"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Hager-ali191"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hager-ali191&color=6C63FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hager-ali191&style=flat-square&color=blue" alt="Profile Views" />
 </p>
