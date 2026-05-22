@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hager Ali 👋</h1>
+<h1 align="center">Hi there, I'm Hager Ali</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Generative+AI">
@@ -16,26 +16,26 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a results-driven AI Engineer in the making, specializing in Machine Learning, Deep Learning, and Computer Vision. I bridge the gap between raw data and intelligent systems — building models that classify, detect, predict, and generate, with a strong focus on real-world deployment and hands-on impact.
 
-> ⚡ Philosophy: *"Don't just train the model — understand it, deploy it, and make it matter."*
+> Philosophy: *"Don't just train the model — understand it, deploy it, and make it matter."*
 
 My AI journey spans the full spectrum — from classical Machine Learning (supervised and unsupervised algorithms including SVM, XGBoost, Random Forest, and more) to Deep Learning with neural networks, and Computer Vision using CNNs, transfer learning, YOLO, and OpenCV. I have applied these skills across multiple hands-on projects including real-time image classification systems, object detection pipelines, and predictive analytics models.
 
 ---
 
-## 🧠 Skills
+##  Skills
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📐 Mathematics & Foundations
+### Mathematics & Foundations
 
 ![Calculus](https://img.shields.io/badge/Calculus-6C63FF?style=for-the-badge)
 ![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-7B2FBE?style=for-the-badge)
@@ -43,7 +43,7 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 ![OOP](https://img.shields.io/badge/OOP-8E44AD?style=for-the-badge)
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6C3483?style=for-the-badge)
 
-### 🤖 Machine Learning & Data Science
+### Machine Learning & Data Science
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,7 +59,7 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 ![Recommender Systems](https://img.shields.io/badge/Recommender%20Systems-154360?style=for-the-badge)
 ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-1B2631?style=for-the-badge)
 
-### 🧬 Deep Learning
+### Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -72,7 +72,7 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 ![Transformers](https://img.shields.io/badge/Transformers-E74C3C?style=for-the-badge)
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-CB4335?style=for-the-badge)
 
-### 👁️ Computer Vision
+### Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00BFFF?style=for-the-badge)
@@ -80,14 +80,14 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 ![Image Classification](https://img.shields.io/badge/Image%20Classification-00838F?style=for-the-badge)
 ![Object Detection](https://img.shields.io/badge/Object%20Detection-006064?style=for-the-badge)
 
-### 🌐 Languages
+### Languages
 
 ![Arabic](https://img.shields.io/badge/Arabic-Native-2ECC71?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Fluent-27AE60?style=for-the-badge)
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 | Project | Description & Key Features | Technical Highlights | Links |
 |---|---|---|---|
@@ -99,7 +99,7 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hager-ali191&theme=tokyonight&hide_border=true" width="60%" />
@@ -107,7 +107,7 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 
 ---
 
-## 🏅 Certifications & Achievements
+## Certifications & Achievements
 
 - **Best Member of November** — RoboTech ASU
 - **Best Machine Learning Task** — RoboTech ASU
@@ -122,7 +122,7 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 ---
 
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="mailto:alihager191@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
