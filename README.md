@@ -26,6 +26,14 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hager-ali191&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
 ##  Skills
 
 ### Programming Languages
@@ -91,19 +99,12 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 
 | Project | Description & Key Features | Technical Highlights | Links |
 |---|---|---|---|
+| 🟠 **Baseera** | AI-powered voice-guided assistant that helps visually impaired users locate everyday objects around them, independently. it's for: primarily blind and low-vision users, but it's just as useful for anyone in a low-visibility situation, or anyone who'd rather ask than search. **Computer Vision Graduation Project - NTI(National Telecommunication Institute) Training** | Inception CNN, Google Quick Draw Dataset (89/300+ classes), OpenCV canvas preprocessing, Pygame UI | [![📁](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Baseera.git) |
 | 🔵 **Akina-Draw** | Real-time hand-drawing classifier — predicts what you draw while the pen is still moving. Live confidence score updated per stroke. Interactive desktop UI with 89 curated classes, brush/eraser controls, undo, and class reference panel. **Showcased at RoboTech ASU Fair '26 & AZEX Competition (May 2026)** | Inception CNN, Google Quick Draw Dataset (89/300+ classes), OpenCV canvas preprocessing, Pygame UI | [![📁](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Akina-Draw) |
 | 🟣 **SpectraSense** | Intelligent conveyor-belt sorting system classifying objects as metal or non-metal across 4 streams: Metal Electronics, Metal Accessories, Metal Tools, Non-Metal. Hardware-integrated with servo motors and sensors for automated physical sorting. **Showcased at RoboTech ASU Fair '26 & AZEX Competition (May 2026)** | YOLO, OpenCV, Roboflow dataset, ESP32-CAM + ESP32 + Arduino Uno, MG996R Servo Motors, Hall Effect Sensors | [![📁](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/SpectraSense) |
 | 🟢 **Bank Churn Predictor** | End-to-end churn prediction pipeline on banking customer data. Identifies customers at risk of leaving using classical ML and Deep Learning. Full feature engineering, class imbalance handling, and comparative model evaluation with ROC-AUC reporting. | scikit-learn, Deep Learning, pandas, Feature Engineering, F1-Score & ROC-AUC Evaluation | [![📁](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Bank-Customer-Churn-Project) |
 | 🟡 **Telco Churn Predictor** | Churn prediction system on telecom data. Deep EDA uncovering patterns across contract types, tenure, and service usage. Ensemble methods + neural network with hyperparameter tuning, cross-validation, and feature importance analysis. | scikit-learn, Deep Learning, EDA, Hyperparameter Tuning, Cross-Validation, pandas | [![📁](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Telco-Customer-Churn-Project) |
 | 🔴 **Student Mental Health Predictor** | Classifies student mental health risk levels from academic and behavioral survey data. Includes a fully interactive web-based GUI built with NiceGUI for real-time end-user prediction without any code. **Showcased at RoboTech ASU Fair '26** | scikit-learn, NiceGUI, Classification, Feature Engineering, pandas | [![📁](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Hager-ali191/Student-Mental-Health-Predictor-) |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hager-ali191&theme=tokyonight&hide_border=true" width="60%" />
-</p>
 
 ---
 
