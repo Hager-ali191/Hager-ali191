@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hager Ali</h1>
+<h1 align="center">Hello, I'm Hager Ali</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Generative+AI">
