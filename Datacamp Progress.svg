@@ -13,6 +13,7 @@
   <g transform="translate(20, 28)">
     <circle cx="5" cy="-4" r="4" fill="#05D5A1" />
     <text x="16" y="0" class="dc-title">DataCamp Learning Stats</text>
+    <text x="460" y="0" class="dc-sub" text-anchor="end">Data Science &amp; AI</text>
   </g>
   <line x1="20" y1="42" x2="480" y2="42" stroke="#24283b" stroke-width="1"/>
 
