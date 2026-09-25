@@ -28,11 +28,18 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hager-ali191&theme=tokyonight&hide_border=true" width="50%" />
-  <img src="./Datacamp Progress.svg" alt="DataCamp Learning Stats" />
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hager-ali191&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+      <td align="center">
+        <img src="./Datacamp%20Progress.svg" alt="DataCamp Learning Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ##  Skills
