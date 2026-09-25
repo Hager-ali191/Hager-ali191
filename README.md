@@ -40,6 +40,7 @@ My AI journey spans the full spectrum — from classical Machine Learning (super
     </tr>
   </table>
 </div>
+
 ---
 
 ##  Skills
