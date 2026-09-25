@@ -1,0 +1,57 @@
+<svg width="500" height="200" viewBox="0 0 500 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .dc-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 700; fill: #05D5A1; }
+    .dc-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; fill: #7982a9; }
+    .dc-val { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 800; text-anchor: middle; }
+    .dc-lbl { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 500; fill: #a9b1d6; text-anchor: middle; }
+  </style>
+
+  <!-- Background Box -->
+  <rect width="500" height="200" rx="12" fill="#1a1b26" stroke="#414868" stroke-width="1.2"/>
+
+  <!-- Header Section -->
+  <g transform="translate(20, 28)">
+    <circle cx="5" cy="-4" r="4" fill="#05D5A1" />
+    <text x="16" y="0" class="dc-title">DataCamp Learning Stats</text>
+    <text x="460" y="0" class="dc-sub" text-anchor="end">Data Science &amp; AI</text>
+  </g>
+  <line x1="20" y1="42" x2="480" y2="42" stroke="#24283b" stroke-width="1"/>
+
+  <!-- ROW 1 (3 Centered Columns) -->
+  <!-- 1. Total XP -->
+  <g transform="translate(83, 60)">
+    <text x="0" y="20" class="dc-val" fill="#05D5A1">51,700</text>
+    <text x="0" y="38" class="dc-lbl">Total XP Earned</text>
+  </g>
+  <line x1="166" y1="52" x2="166" y2="105" stroke="#24283b" stroke-width="1"/>
+
+  <!-- 2. Courses Completed -->
+  <g transform="translate(250, 60)">
+    <text x="0" y="20" class="dc-val" fill="#7aa2f7">9</text>
+    <text x="0" y="38" class="dc-lbl">Completed Courses</text>
+  </g>
+  <line x1="333" y1="52" x2="333" y2="105" stroke="#24283b" stroke-width="1"/>
+
+  <!-- 3. Tracks Finished -->
+  <g transform="translate(416, 60)">
+    <text x="0" y="20" class="dc-val" fill="#ff9e64">0</text>
+    <text x="0" y="38" class="dc-lbl">Completed Tracks</text>
+  </g>
+
+  <!-- Middle Divider -->
+  <line x1="20" y1="118" x2="480" y2="118" stroke="#24283b" stroke-width="1"/>
+
+  <!-- ROW 2 (2 Centered Columns) -->
+  <!-- 4. Projects Done -->
+  <g transform="translate(125, 132)">
+    <text x="0" y="20" class="dc-val" fill="#2ac3de">5</text>
+    <text x="0" y="38" class="dc-lbl">Completed Projects</text>
+  </g>
+  <line x1="250" y1="125" x2="250" y2="185" stroke="#24283b" stroke-width="1"/>
+
+  <!-- 5. Certificates -->
+  <g transform="translate(375, 132)">
+    <text x="0" y="20" class="dc-val" fill="#bb9af7">9</text>
+    <text x="0" y="38" class="dc-lbl">Certificates</text>
+  </g>
+</svg>
